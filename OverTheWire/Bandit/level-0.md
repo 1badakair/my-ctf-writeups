@@ -1,4 +1,4 @@
-# Level 0
+# 🚩 Level 0
 Bandit Level 0 - Level 1
 
 ## Instruksi
@@ -21,7 +21,9 @@ bandit0@bandit:~$ cat readme
 The password you are looking for is: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
 ```
 
-## Password untuk ke Level 1 adalah:
+<br>
+
+# 🏁 Password untuk ke Level 1 adalah:
 ```
 ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
 ```
